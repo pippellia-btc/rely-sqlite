@@ -1,0 +1,9 @@
+**/*.env
+
+# ignore all sqlite files
+**/*.sqlite
+**/*-shm
+**/*-wal
+
+# ignore all log files
+**/*.log
